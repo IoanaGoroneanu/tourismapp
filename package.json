@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "heroku": "^7.60.2"
-  }
+  },
+  "scripts": {
+    "start": "node index.js"
+ }
 }
