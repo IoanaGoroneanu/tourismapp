@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tourismapp/static/css/main.08e8ce98.css",
+    "main.js": "/tourismapp/static/js/main.7ee06abf.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/tourismapp/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/tourismapp/index.html",
+    "main.08e8ce98.css.map": "/tourismapp/static/css/main.08e8ce98.css.map",
+    "main.7ee06abf.js.map": "/tourismapp/static/js/main.7ee06abf.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/tourismapp/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e8ce98.css",
+    "static/js/main.7ee06abf.js"
+  ]
+}
