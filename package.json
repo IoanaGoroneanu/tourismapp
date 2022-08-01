@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "firebase": "^9.9.1",
     "heroku": "^7.60.2",
     "serve": "^14.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
